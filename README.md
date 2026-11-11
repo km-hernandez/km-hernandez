@@ -7,7 +7,7 @@ starting December 2026. Bilingual: English and Spanish.
 
 ## What I'm building
 
-**[platform-engineering-lab](https://github.com/km-hernandez/platform-engineering-lab)**:
+**[airgap-exploration](https://github.com/km-hernandez/airgap-exploration)**:
 one small service, carried along the path software takes in the DoD. Each step
 has a one-command proof that fails if a control does not hold.
 
